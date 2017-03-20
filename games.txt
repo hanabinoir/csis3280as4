@@ -1,0 +1,23 @@
+﻿1,Halo,f,2011-01-19,25.99
+2,Halo 2,f,2011-01-19,35.99
+3,StarCraft 2: Wings of Liberty,r,2011-01-19,29.99
+4,Halo: ODST,f,2011-01-19,45.34
+5,Crysis 2,f,2011-01-19,56.23
+6,Brink,f,2011-01-19,45.34
+7,Halo Wars,r,2011-01-19,25.98
+8,FIFA 2011,s,2011-01-19,33.21
+9,Need of Speed: Hot Pursuit,s,2011-01-19,51.34
+10,Command and Conquer: Twilight,r,2011-01-19,19.99
+11,Shattered Union,t,2011-01-19,9.99
+12,Axis and Allies,t,2011-01-19,7.88
+13,Split Second,s,2011-01-19,56.34
+14,Blur,s,2011-01-19,34.56
+15,Company of Heroes,r,2011-01-19,15.99
+16,Dragon Age Origins,p,2011-01-19,23.99
+17,Diablo 2,p,2011-01-19,34.11
+18,DC Universe Online,p,2011-01-19,9.99
+19,Aliens v Predator,f,2011-01-19,45.23
+20,Street Fighter 4,s,2015-05-11,23.45
+21,BulletStorm,f,2011-01-19,56.21
+22,Call of Duty: Black Ops,f,2011-01-19,45.23
+23,Call of Duty: Modern Warfare,f,2011-01-19,34.55
